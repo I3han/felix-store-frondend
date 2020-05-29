@@ -1,0 +1,45 @@
+.Item {
+  padding: 15px;
+  -webkit-box-shadow: 0px 0px 17px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 17px -1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 17px -1px rgba(0,0,0,0.75);
+  width: 250px;
+  height: 340px;
+  border-radius: 5px;
+  background-color: rgb(114, 128, 141);
+  color: white;
+display: inline-table;
+margin-left: 15px;
+margin-bottom: 20px;
+
+&:hover{
+  background-color: rgb(61, 68, 75);
+  color: whitesmoke;
+  -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+
+}
+}
+
+.des{
+  border: 0.5px rgb(101, 110, 124) solid;
+  background-color: rgb(148, 158, 168);
+  border-radius: 5px;
+}
+
+.price{
+  font-weight: bold;
+  color: rgb(225, 233, 250);
+}
+
+
+.stock{
+  color: rgb(207, 240, 207);
+}
+
+.outStock{
+  color: rgb(250, 229, 220);
+}
+

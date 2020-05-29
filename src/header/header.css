@@ -1,0 +1,17 @@
+.Navbar {
+   padding: 10px !important;
+}
+
+.Searchbtn{
+    background-color: rgb(160, 104, 0);
+    color: aliceblue;
+}
+
+.Logoname{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.Logoname:hover{
+    color: rgb(236, 185, 89);
+}

@@ -1,0 +1,13 @@
+.Sellitems {
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.57);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.57);
+  border-radius: 5px;
+  padding: 20px;
+  text-align: left;
+  width: 70%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
